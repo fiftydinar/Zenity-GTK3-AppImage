@@ -1,7 +1,7 @@
 # Zenity-adw-gtk3-AppImage
-Unofficial AppImage of Zenity **GTK3 Version** with bundled `adw-gtk3` theme
+Unofficial AppImage of Zenity **GTK3 Version** with bundled `adw-gtk3` theme to make it look like libadwaita apps.
 
-It supports dark mode, although, it doesn't transition on theme changes when app is running.
+It detects & supports dark mode, although, it doesn't transition on theme changes when app is running.
 
 Modified it a bit for personal usage, all credits belong to @Samueru-sama who built Zenity GTK3 AppImage.
 
