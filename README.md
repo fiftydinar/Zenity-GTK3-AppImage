@@ -1,6 +1,10 @@
 # Zenity-adw-gtk3-AppImage
 Unofficial AppImage of Zenity **GTK3 Version** with bundled `adw-gtk3` theme
 
+It supports dark mode, although, it doesn't transition on theme changes when app is running.
+
+Modified it a bit for personal usage, all credits belong to @Samueru-sama who built Zenity GTK3 AppImage.
+
 **raison d'être:** 
 
 ![Gnome moment](https://github.com/Samueru-sama/Zenity-GTK3-AppImage/assets/36420837/3e5586a2-f21d-4e96-89c9-3becc1642fdc)
