@@ -60,8 +60,8 @@ echo 'SHARUN_WORKING_DIR=${SHARUN_DIR}' > ./.env
 # bundle theming, to make it look like GTK4 with dark theming support
 # (no smooth theme transition after theme change when zenity is opened though)
 wget "$ADWGTK3" -O $PWD/adw-gtk3-theme.tar.xz
-mkdir -p $PWD/usr/share/themes/
-tar -xf $PWD/adw-gtk3-theme.tar.xz -C $PWD/usr/share/themes/
+mkdir -p $PWD/share/themes/
+tar -xf $PWD/adw-gtk3-theme.tar.xz -C $PWD/share/themes/
 rm $PWD/adw-gtk3-theme.tar.xz
 
 # bundle dependencies
