@@ -7,7 +7,7 @@ Modified it a bit for personal usage, all credits belong to @Samueru-sama who bu
 
 **raison d'être:** 
 
-![Gnome moment](https://github.com/Samueru-sama/Zenity-GTK3-AppImage/assets/36420837/3e5586a2-f21d-4e96-89c9-3becc1642fdc)
+GTK4 version is higher in filesize & harder to build, so I just use what already exists & spice it up.
 
 ---------------------------------------------------------------
 
