@@ -36,6 +36,7 @@ jobs:
           patchelf \
           strace \
           wget \
+          curl \
           xvfb-run
 
         chmod +x ./*-appimage.sh && ./*-appimage.sh
