@@ -1,5 +1,5 @@
-# Zenity-GTK3-AppImage
-Unofficial AppImage of Zenity **GTK3 Version**
+# Zenity-adw-gtk3-AppImage
+Unofficial AppImage of Zenity **GTK3 Version** with bundled `adw-gtk3` theme
 
 **raison d'être:** 
 
